@@ -1,9 +1,9 @@
 # IMAGE PROCESSING FOR SWARM SYSTEMS
----
 
 TODO (Subject to change):
 
-- [ ] Feature detection.
+- [X] Feature detection:
+	Use `make features_detect` to generate executable.
 
 - [ ] Feature matching.
 
